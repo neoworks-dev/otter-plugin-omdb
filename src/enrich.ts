@@ -1,4 +1,4 @@
-import type { EnrichArgs, EnrichResult } from "@shutterly/sdk";
+import type { EnrichArgs, EnrichResult } from "@neoworks-dev/otter-sdk";
 
 const API_KEY = process.env.OMDB_API_KEY ?? "";
 const BASE = "https://www.omdbapi.com/";

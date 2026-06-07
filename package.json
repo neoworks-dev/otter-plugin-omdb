@@ -5,6 +5,6 @@
   "type": "module",
   "main": "index.ts",
   "dependencies": {
-    "@shutterly/sdk": "file:../sdk"
+    "@neoworks-dev/otter-sdk": "link:@neoworks-dev/otter-sdk"
   }
 }

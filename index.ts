@@ -1,4 +1,4 @@
-import { runPlugin } from "@shutterly/sdk";
+import { runPlugin } from "@neoworks-dev/otter-sdk";
 import { enrich } from "./src/enrich.ts";
 
 runPlugin({
