@@ -5,11 +5,11 @@
     "": {
       "name": "@shutterly/plugin-omdb",
       "dependencies": {
-        "@shutterly/sdk": "file:../sdk",
+        "@neoworks-dev/otter-sdk": "link:@neoworks-dev/otter-sdk",
       },
     },
   },
   "packages": {
-    "@shutterly/sdk": ["@shutterly/sdk@file:../sdk", {}],
+    "@neoworks-dev/otter-sdk": ["@neoworks-dev/otter-sdk@link:@neoworks-dev/otter-sdk", {}],
   }
 }
